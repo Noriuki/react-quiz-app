@@ -60,7 +60,7 @@ const QuizMenu: FC<IMenuProps> = ({ callback, ...rest }) => {
           handleProps(e);
         }}
       >
-        Iniciar
+        Start Quiz
       </button>
     </>
   );
