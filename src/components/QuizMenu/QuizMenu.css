@@ -1,0 +1,43 @@
+.menu__title {
+  font-size: 3rem;
+  font-family: "DotGothic16", sans-serif;
+  letter-spacing: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.menu__options,
+.menu__options > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.menu__options .ant-select {
+  font-size: 1.2rem;
+  height: max-content;
+  width: 50%;
+  margin: 0 auto 1rem;
+}
+.menu__options > div > span {
+  font-family: "DotGothic16", sans-serif;
+  margin: 0.5rem 0 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.menu__btn {
+  width: 20%;
+  height: 10%;
+  margin-top: 1rem;
+  border-radius: 5px;
+  padding: 0 0.5rem 0.5rem !important;
+  background-color: rgba(187, 0, 233, 1);
+  border: 2px solid rgba(187, 0, 233, 1);
+  box-shadow: 0 0.4em rgba(138, 43, 226, 1), 0 0.5em rgba(0, 0, 0, 0.5);
+}
+
+.menu__btn:active {
+  transform: translateY(4px);
+  box-shadow: 0 0.1em rgba(0, 0, 0, 0.2);
+}
