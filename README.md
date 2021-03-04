@@ -1,28 +1,34 @@
-# ReactJS/Typescript Quiz-App
-This project utilize [Trivia API](https://opentdb.com/)
+# Quiz-App
+> Simple Quiz app React/Typescript.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+topics covered:\
+:white_check_mark: [React](https://reactjs.org/)\
+:white_check_mark: [Typescript](https://www.typescriptlang.org/)\
+:white_check_mark: [Trivia API](https://opentdb.com/)
+
+
 ## :framed_picture: Screenshots
 ![screenshot 1](https://github.com/Noriuki/react-quiz-app/blob/master/screenshot-1.png)
 
 
 ![screenshot 2](https://github.com/Noriuki/react-quiz-app/blob/master/screenshot-2.png)
 
-## Available Scripts
+## :wrench: Development setup
+clone project
 
-In the project directory, you can run:
+`
+$ git clone https://github.com/Noriuki/NextLevelWeek-4-Node
+`
 
-### `yarn start`
+install dependencies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+`
+yarn install
+`
 
+Run App
 
-### `yarn test`
+`
+yarn dev
+`
 
-Launches the test runner in the interactive watch mode.\
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
