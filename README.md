@@ -2,6 +2,11 @@
 This project utilize [Trivia API](https://opentdb.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :framed_picture: Screenshots
+![screenshot 1](https://github.com/Noriuki/react-quiz-app/blob/master/screenshot-1.png)
+
+
+![screenshot 2](https://github.com/Noriuki/react-quiz-app/blob/master/screenshot-2.png)
 
 ## Available Scripts
 
